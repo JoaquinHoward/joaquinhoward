@@ -14,4 +14,4 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 projects:
-https://intmanage.up.railway.app/home  (processing)
+https://intmanage.up.railway.app/  (processing)
