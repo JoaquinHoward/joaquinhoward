@@ -10,5 +10,5 @@
 
 # 🚀 Projects
 
-* **[Inventory & Task Management System](https://intmanage.up.railway.app/)** *(Processing / In Development)*
+* **[Internship Tracker Website](https://intmanage.up.railway.app/)** *(Processing / In Development)*
 * **[Developer Portfolio](https://portfolio-app-dev.up.railway.app/)** *(Processing / In Development)*
