@@ -7,12 +7,17 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,supabase,tailwind" />
+    <img src="https://skillicons.dev/icons?i=c,php,laravel,supabase,tailwind" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,r,mysql,mariadb,flutter" />
+    <img src="https://skillicons.dev/icons?i=cs,r,mysql,flutter" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter" />
   </a>
 </p>
 
